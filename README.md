@@ -48,6 +48,7 @@ Note down the waveforms seen on the CRO for different configurations. Take scree
 
 ## OUTPUT GRAPHS
 
+![WhatsApp Image 2025-04-23 at 12 02 30](https://github.com/user-attachments/assets/e349f581-b9cb-494a-8474-ecb3dd6dcd71)
 
 
 ## RESULT 
